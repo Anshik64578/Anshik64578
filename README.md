@@ -1,38 +1,40 @@
+
 # Hi, I'm Anshika Kumari 👋
 
 ### MERN Stack Developer | AI/ML Enthusiast | Software Developer
 
-I enjoy building meaningful applications that combine technology, creativity, and real-world problem-solving. I'm particularly interested in full-stack development and exploring how AI can make applications smarter and more useful.
+I enjoy building meaningful applications that combine technology, creativity, and real-world problem-solving. I'm passionate about full-stack development and exploring how AI can make applications smarter and more useful.
 
 - 💻 Building full-stack applications using the MERN stack.
-- 🤖 Exploring AI/ML and integrating AI into real-world projects.
+- 🤖 Exploring AI/ML and integrating AI into real-world applications.
 - 🌸 Interested in healthcare technology and women-centric solutions.
 - 🚀 Always learning, building, and improving my skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-**Languages & Frontend**
+**Frontend Development**
+- React.js | JavaScript | HTML5 | CSS3 | Tailwind CSS
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Backend Development & Database**
+- Node.js | Express.js | MongoDB | MongoDB Atlas
+- REST APIs | JWT | Bcrypt
 
-**Backend & Database**
+**AI, Machine Learning & Generative AI**
+- Python | Scikit-learn | Pandas | NumPy
+- Google Gemini API | Ollama
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Tools & Platforms**
+- Git | GitHub | Postman | VS Code
+- Oracle Cloud Infrastructure
 
-**AI/ML & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Core Skills**
+- Full-Stack Web Development
+- RESTful API Development
+- Authentication & Authorization
+- Machine Learning Classification
+- AI Integration
 
 ---
 
@@ -40,29 +42,42 @@ I enjoy building meaningful applications that combine technology, creativity, an
 
 ### 🌿 Bloomwell – Personal Wellness Journal
 
-A wellness journal application designed to help users understand their daily habits and maintain a healthier lifestyle.
+A personal wellness journal designed to help users track their daily habits, understand wellness patterns, and build healthier routines.
 
 - Track mood, sleep, water intake, exercise, and symptoms.
-- Visualize personal wellness patterns through interactive charts.
-- Get personalized, rule-based insights based on tracked activities.
+- Visualize wellness patterns through interactive charts.
+- Generate personalized, rule-based insights from tracked activities.
 - Secure authentication and individual user dashboards.
 
-**Tech:** React, Node.js, Express.js, MongoDB, JWT, Recharts
+**Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, JWT, Bcrypt, Recharts
 
-[View Project](https://github.com/Anshik64578/Bloomwell)
+[🔗 View Project](https://github.com/Anshik64578/Bloomwell)
 
-### 🌸 PCOS/PCOD Women's Health Detection System
+### 🌸 PCOS/PCOD & PMDD Women's Health Detection System
 
-An AI/ML-based project focused on women's health, designed to help identify potential PCOS, PCOD, and PMDD-related patterns through symptom analysis.
+An AI/ML-based academic project focused on women's health, exploring symptom-based classification and health awareness.
 
 - Uses machine learning models to classify health-related symptom patterns.
-- Explores Logistic Regression and Random Forest algorithms.
+- Implements Logistic Regression and Random Forest algorithms.
 - Provides condition-related information, lifestyle recommendations, exercises, and dietary suggestions.
 - Combines machine learning with a user-friendly web application.
 
-**Tech:** Machine Learning, Python, React, JavaScript, MongoDB
+**Tech Stack:** Python, Machine Learning, Scikit-learn, React.js, JavaScript, MongoDB
 
-*An academic research project exploring AI-assisted women's health awareness, not a medical diagnostic tool.*
+*An academic project for health awareness and research, not a substitute for medical diagnosis.*
+
+### 🔄 CampusSwap – Campus Marketplace
+
+A full-stack marketplace designed to help students buy and sell pre-owned items within their college community.
+
+- Enables students to list, browse, and explore second-hand products.
+- Implements authentication and authorization for secure user access.
+- Integrates Google Gemini API to generate AI-powered product descriptions.
+- Provides a user-friendly marketplace experience.
+
+**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Bcrypt, Google Gemini API
+
+[🔗 View Project](https://github.com/Anshik64578)
 
 ---
 
@@ -77,9 +92,10 @@ An AI/ML-based project focused on women's health, designed to help identify pote
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshik64578&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshik64578&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshik64578&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshik64578&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
@@ -87,8 +103,14 @@ An AI/ML-based project focused on women's health, designed to help identify pote
 
 I'm always open to connecting with developers, exploring opportunities, collaborating on interesting projects, and learning new technologies.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Anshik64578-181717?style=for-the-badge&logo=github)](https://github.com/Anshik64578)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+<p>
+  <a href="https://github.com/Anshik64578">
+    <img src="https://img.shields.io/badge/GitHub-Anshik64578-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
