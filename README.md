@@ -1,4 +1,3 @@
-
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 
 <div align="center">
@@ -9,17 +8,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%E2%9C%A8;Creating+Technology+With+Purpose+%F0%9F%8C%B8" />
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Anshik64578&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
-
 </div>
 
 ---
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 
-## 💜 About Me
+## 👩‍💻 About Me
 
 Hey there! I'm **Anshika Kumari**, a developer passionate about creating meaningful digital experiences through technology.
 
@@ -99,8 +94,6 @@ A personal wellness journal designed to help users track daily habits, understan
 
 **💻 Tech Stack:** React.js · Vite · Node.js · Express.js · MongoDB · JWT · Bcrypt · Recharts
 
-🔗 **[Explore Bloomwell →](https://github.com/Anshik64578/Bloomwell)**
-
 <br clear="right"/>
 
 ---
@@ -128,105 +121,4 @@ A full-stack marketplace designed to help students buy and sell pre-owned items 
 **✨ Key Features**
 - 🛍️ Browse and list second-hand products.
 - 🔐 Authentication and authorization for secure access.
-- ✨ Google Gemini API integration for AI-powered product descriptions.
-- 🎯 User-friendly marketplace experience.
-
-**💻 Tech Stack:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB · JWT · Bcrypt · Gemini API
-
-🔗 **[Explore My GitHub Projects →](https://github.com/Anshik64578?tab=repositories)**
-
----
-
-<!-- ═══════════════ CERTIFICATIONS ═══════════════ -->
-
-## 🏆 Certifications & Achievements
-
-<div align="left">
-
-🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-
-🌍 **IIRS Outreach Programme** — AI/ML for Geodata Analysis
-
-📄 Research paper accepted at **ITI 2025 (Springer Conference)**
-
-📄 Research paper accepted at **EECT 2026**
-
-</div>
-
----
-
-<!-- ═══════════════ GITHUB TROPHIES ═══════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anshik64578&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
-
-</div>
-
----
-
-<!-- ═══════════════ GITHUB STATISTICS ═══════════════ -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshik64578&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=67E8F9&text_color=FFFFFF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshik64578&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Anshik64578&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF69B4&currStreakLabel=A78BFA" width="70%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshik64578&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always happy to connect with developers, explore opportunities, collaborate on interesting projects, and learn new technologies.
-
-<br/>
-
-<a href="https://github.com/Anshik64578">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/anshika-kumari-257039392">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 💜 Building Technology With Purpose
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=450&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Create+%E2%80%A2+Repeat;Turning+Curiosity+Into+Innovation+%E2%9C%A8" />
-
-</div>
-
-<!-- ═══════════════ ANIMATED FOOTER ═══════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B59B6,100:00C9D6&height=120&section=footer" width="100%"/>
+- ✨ Google
