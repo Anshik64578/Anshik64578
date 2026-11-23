@@ -1,117 +1,145 @@
+Yes! Let's give your GitHub profile a much more attractive look. 💜
 
-# Hi, I'm Anshika Kumari 👋
+I'd go with a **modern midnight-purple + cyan + pink aesthetic**:
 
-### MERN Stack Developer | AI/ML Enthusiast | Software Developer
+- Gradient-style welcome banner.
+- Colourful technology badges.
+- Stylish section headings and icons.
+- Project cards with clear descriptions.
+- GitHub stats in matching dark colours.
+- A professional developer vibe, not an overcrowded profile.
 
-I enjoy building meaningful applications that combine technology, creativity, and real-world problem-solving. I'm passionate about full-stack development and exploring how AI can make applications smarter and more useful.
+I'll keep all your actual project details and improve the visual presentation.
 
-- 💻 Building full-stack applications using the MERN stack.
-- 🤖 Exploring AI/ML and integrating AI into real-world applications.
-- 🌸 Interested in healthcare technology and women-centric solutions.
-- 🚀 Always learning, building, and improving my skills.
+Here's the colourful version. Copy this entire README and replace your existing one.
+
+````
+
+<!-- 🌌 HEADER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B59B6,100:00C9D6&height=200&section=header&text=Hi,%20I'm%20Anshika!&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=Building+Meaningful+Web+Applications+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%E2%9C%A8" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Anshik64578&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 💜 About Me
 
-**Frontend Development**
-- React.js | JavaScript | HTML5 | CSS3 | Tailwind CSS
+```yaml
+name: Anshika Kumari
+role: MERN Stack Developer
+interests:
+  - Full-Stack Development
+  - Artificial Intelligence & Machine Learning
+  - Generative AI
+  - Healthcare Technology
+currently:
+  - Building meaningful applications
+  - Exploring AI-powered solutions
+  - Learning and growing as a developer
+```
 
-**Backend Development & Database**
-- Node.js | Express.js | MongoDB | MongoDB Atlas
-- REST APIs | JWT | Bcrypt
+- 💻 Passionate about building full-stack applications using the MERN stack.
+- 🤖 Interested in AI/ML and integrating intelligent features into applications.
+- 🌸 Exploring technology-driven solutions for women's health.
+- ✨ I love turning ideas into practical, user-friendly applications.
 
-**AI, Machine Learning & Generative AI**
-- Python | Scikit-learn | Pandas | NumPy
-- Google Gemini API | Ollama
+---
 
-**Tools & Platforms**
-- Git | GitHub | Postman | VS Code
-- Oracle Cloud Infrastructure
+## 🛠️ Tech Stack & Technologies
 
-**Core Skills**
-- Full-Stack Web Development
-- RESTful API Development
-- Authentication & Authorization
-- Machine Learning Classification
-- AI Integration
+### 🎨 Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+### ⚙️ Backend Development & Database
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bcrypt-4A8B3B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+</p>
+
+### 🤖 AI, Machine Learning & Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌿 Bloomwell – Personal Wellness Journal
+### 🌿 01. Bloomwell — Personal Wellness Journal
 
-A personal wellness journal designed to help users track their daily habits, understand wellness patterns, and build healthier routines.
+<img align="right" width="100" src="https://img.shields.io/badge/Wellness-Health-2EAD70?style=for-the-badge"/>
 
-- Track mood, sleep, water intake, exercise, and symptoms.
-- Visualize wellness patterns through interactive charts.
-- Generate personalized, rule-based insights from tracked activities.
-- Secure authentication and individual user dashboards.
+A personal wellness journal designed to help users understand their daily habits and build healthier routines.
 
-**Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, JWT, Bcrypt, Recharts
+- 🌱 Track mood, sleep, water intake, exercise and symptoms.
+- 📊 Visualize wellness patterns using interactive charts.
+- 🧠 Generate personalized rule-based insights.
+- 🔐 Secure authentication and individual dashboards.
 
-[🔗 View Project](https://github.com/Anshik64578/Bloomwell)
+**Tech Stack:** React.js · Vite · Node.js · Express.js · MongoDB · JWT · Recharts
 
-### 🌸 PCOS/PCOD & PMDD Women's Health Detection System
+🔗 **[Explore Bloomwell](https://github.com/Anshik64578/Bloomwell)**
+
+<br clear="right"/>
+
+### 🌸 02. PCOS/PCOD & PMDD Women's Health Detection System
 
 An AI/ML-based academic project focused on women's health, exploring symptom-based classification and health awareness.
 
-- Uses machine learning models to classify health-related symptom patterns.
-- Implements Logistic Regression and Random Forest algorithms.
-- Provides condition-related information, lifestyle recommendations, exercises, and dietary suggestions.
-- Combines machine learning with a user-friendly web application.
+- 🧬 Implements Logistic Regression and Random Forest algorithms.
+- 🤖 Uses machine learning for symptom-pattern classification.
+- 🌿 Provides condition-related information and lifestyle recommendations.
+- 💻 Combines machine learning with a user-friendly web application.
 
-**Tech Stack:** Python, Machine Learning, Scikit-learn, React.js, JavaScript, MongoDB
+**Tech Stack:** Python · Scikit-learn · Machine Learning · React.js · JavaScript · MongoDB
 
-*An academic project for health awareness and research, not a substitute for medical diagnosis.*
+<sub>Academic research project for health awareness, not a substitute for medical diagnosis.</sub>
 
-### 🔄 CampusSwap – Campus Marketplace
+### 🔄 03. CampusSwap — Campus Marketplace
 
 A full-stack marketplace designed to help students buy and sell pre-owned items within their college community.
 
-- Enables students to list, browse, and explore second-hand products.
-- Implements authentication and authorization for secure user access.
-- Integrates Google Gemini API to generate AI-powered product descriptions.
-- Provides a user-friendly marketplace experience.
+- 🛍️ Browse and list second-hand products.
+- 🔐 Authentication and authorization for secure user access.
+- ✨ Google Gemini API integration for AI-powered product descriptions.
+- 🎯 User-friendly marketplace experience.
 
-**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Bcrypt, Google Gemini API
-
-[🔗 View Project](https://github.com/Anshik64578)
-
----
-
-## 🏆 Certifications & Achievements
-
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional.
-- IIRS Outreach Programme – AI/ML for Geodata Analysis.
-- Research paper accepted at ITI 2025 (Springer conference).
-- Research paper accepted at EECT 2026.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshik64578&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshik64578&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to connecting with developers, exploring opportunities, collaborating on interesting projects, and learning new technologies.
-
-<p>
-  <a href="https://github.com/Anshik64578">
-    <img src="https://img.shields.io/badge/GitHub-Anshik64578-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-### ✨ "Building technology with purpose, one project at a time."
+**Tech Stack:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB · JWT · Google
+````
